@@ -1,8 +1,8 @@
 const chalk = require("chalk")
 
-console.log("This is Rakshih")
-console.log("This is Karthik")
-console.log(chalk.white.bgGreen('Hello world!'));
+console.log("Hi this is Rakshih")
+console.log("Hi this is karthik")
+console.log(chalk.white.bgGreen('Hello India!'));
 
-console.log(chalk.white.bgGreen('Edited 1'));
+console.log(chalk.white.bgGreen('Feature 11'));
 console.log(chalk.white.bgGreen('Edited 2'));
